@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0002/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六一詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:46:51.633711'
+  source:
+    repository: kanripo
+    path: KR4j0002/KR4j0002_000.txt
+hash: sha256:8b94da237a79cf504ad3f7493540d0312afad40ffae0171b5540e1c8353834c5

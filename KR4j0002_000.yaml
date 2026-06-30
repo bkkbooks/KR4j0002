@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0002/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 六一詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:46:51.633711'
+  source:
+    repository: kanripo
+    path: KR4j0002/KR4j0002_000.txt
+hash: sha256:8bd9a00309297da97116d82d88246d30b98c3b504efd0c4bc616be6f6fec6b60
